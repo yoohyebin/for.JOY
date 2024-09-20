@@ -1,9 +1,9 @@
 # 🎞️ 사진에 음성을 더한 육아일기 for. JOY
 <p align="center">
-    <img width="500" alt="image" src="https://github.com/user-attachments/assets/6cce4bb6-838a-4767-b2dc-267443f2bc72">
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/053cbba8-3762-48e0-8280-312f181020f3">
 </p>
 
->**개발기간: 2024.04 ~ 2024.05**
+>**개발기간: 2023.04 ~ 2023.05**
 
 ## 📖 프로젝트 소개
 - for. JOY는 정적인 사진에 음성을 더해 추억을 더 생동감 있게 기록할 수 있는 육아일기 앱입니다. 
